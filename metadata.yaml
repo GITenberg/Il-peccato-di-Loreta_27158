@@ -1,0 +1,27 @@
+_repo: Il-peccato-di-Loreta_27158
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boccardi, Alberto
+    birthdate: 1854
+    deathdate: 1921
+    gutenberg_agent_id: '32499'
+    url: http://www.gutenberg.org/2009/agents/32499
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2008-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27158'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Il peccato di Loreta
+url: http://www.gutenberg.org/ebooks/27158
